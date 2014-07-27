@@ -1,0 +1,1 @@
+DemoApp::Application.configure do
